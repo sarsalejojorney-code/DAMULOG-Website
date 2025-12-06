@@ -1,2 +1,2 @@
-# DAMULOG-Website
-Sarsalejo
+# ALSWebsite
+A Website for ALS
